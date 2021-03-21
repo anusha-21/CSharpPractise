@@ -1,0 +1,9 @@
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.deps.json
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.pdb
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\Home\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.pdb
